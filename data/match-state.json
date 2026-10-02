@@ -1,0 +1,421 @@
+{
+  "id": "match_1790959833775",
+  "title": "India vs Australia - 20 Overs",
+  "tournament": "CrickoTV Championship 2026",
+  "format": "T20",
+  "totalOvers": 20,
+  "venue": "Wankhede Stadium, Mumbai",
+  "toss": "India won the toss and elected to bat first.",
+  "tossWinner": "team1",
+  "tossDecision": "bat",
+  "status": "LIVE",
+  "currentInnings": 1,
+  "target": null,
+  "statusText": "1st Innings in progress",
+  "requiredRunsText": "",
+  "resultSummary": "",
+  "winner": "",
+  "isFreeHit": false,
+  "isRainDelay": false,
+  "rainDelayText": "",
+  "tickerText": "LIVE: India vs Australia • India won the toss and elected to bat first.",
+  "team1": {
+    "key": "IND",
+    "name": "India",
+    "shortName": "IND",
+    "country": "India",
+    "logo": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=140&h=140&q=80",
+    "flag": "https://flagcdn.com/w160/in.png",
+    "primaryColor": "#0054A6",
+    "secondaryColor": "#FF671F",
+    "squad": [
+      {
+        "id": "ind_1",
+        "name": "Rohit Sharma",
+        "shortName": "R Sharma",
+        "jerseyNumber": 45,
+        "role": "batsman",
+        "battingStyle": "RHB",
+        "bowlingStyle": "OB",
+        "isCaptain": true,
+        "isWicketKeeper": false,
+        "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      {
+        "id": "ind_2",
+        "name": "Yashasvi Jaiswal",
+        "shortName": "Y Jaiswal",
+        "jerseyNumber": 64,
+        "role": "batsman",
+        "battingStyle": "LHB",
+        "bowlingStyle": "LB",
+        "isCaptain": false,
+        "isWicketKeeper": false,
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      {
+        "id": "ind_3",
+        "name": "Virat Kohli",
+        "shortName": "V Kohli",
+        "jerseyNumber": 18,
+        "role": "batsman",
+        "battingStyle": "RHB",
+        "bowlingStyle": "RM",
+        "isCaptain": false,
+        "isWicketKeeper": false,
+        "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      {
+        "id": "ind_4",
+        "name": "Suryakumar Yadav",
+        "shortName": "SK Yadav",
+        "jerseyNumber": 63,
+        "role": "batsman",
+        "battingStyle": "RHB",
+        "bowlingStyle": "RM",
+        "isCaptain": false,
+        "isWicketKeeper": false,
+        "image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      {
+        "id": "ind_5",
+        "name": "Rishabh Pant",
+        "shortName": "R Pant",
+        "jerseyNumber": 17,
+        "role": "wicket_keeper",
+        "battingStyle": "LHB",
+        "bowlingStyle": "None",
+        "isCaptain": false,
+        "isWicketKeeper": true,
+        "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      {
+        "id": "ind_6",
+        "name": "Hardik Pandya",
+        "shortName": "H Pandya",
+        "jerseyNumber": 33,
+        "role": "all_rounder",
+        "battingStyle": "RHB",
+        "bowlingStyle": "RFM",
+        "isCaptain": false,
+        "isWicketKeeper": false,
+        "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      {
+        "id": "ind_7",
+        "name": "Ravindra Jadeja",
+        "shortName": "R Jadeja",
+        "jerseyNumber": 8,
+        "role": "all_rounder",
+        "battingStyle": "LHB",
+        "bowlingStyle": "SLA",
+        "isCaptain": false,
+        "isWicketKeeper": false,
+        "image": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      {
+        "id": "ind_8",
+        "name": "Axar Patel",
+        "shortName": "A Patel",
+        "jerseyNumber": 20,
+        "role": "all_rounder",
+        "battingStyle": "LHB",
+        "bowlingStyle": "SLA",
+        "isCaptain": false,
+        "isWicketKeeper": false,
+        "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      {
+        "id": "ind_9",
+        "name": "Kuldeep Yadav",
+        "shortName": "K Yadav",
+        "jerseyNumber": 23,
+        "role": "bowler",
+        "battingStyle": "LHB",
+        "bowlingStyle": "SLC",
+        "isCaptain": false,
+        "isWicketKeeper": false,
+        "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      {
+        "id": "ind_10",
+        "name": "Jasprit Bumrah",
+        "shortName": "J Bumrah",
+        "jerseyNumber": 93,
+        "role": "bowler",
+        "battingStyle": "RHB",
+        "bowlingStyle": "RF",
+        "isCaptain": false,
+        "isWicketKeeper": false,
+        "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      {
+        "id": "ind_11",
+        "name": "Arshdeep Singh",
+        "shortName": "A Singh",
+        "jerseyNumber": 2,
+        "role": "bowler",
+        "battingStyle": "LHB",
+        "bowlingStyle": "LF",
+        "isCaptain": false,
+        "isWicketKeeper": false,
+        "image": "https://images.unsplash.com/photo-1463453091185-61582044d556?auto=format&fit=crop&w=150&h=150&q=80"
+      }
+    ]
+  },
+  "team2": {
+    "key": "AUS",
+    "name": "Australia",
+    "shortName": "AUS",
+    "country": "Australia",
+    "logo": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?auto=format&fit=crop&w=140&h=140&q=80",
+    "flag": "https://flagcdn.com/w160/au.png",
+    "primaryColor": "#006432",
+    "secondaryColor": "#FFCC00",
+    "squad": [
+      {
+        "id": "aus_1",
+        "name": "Travis Head",
+        "shortName": "T Head",
+        "jerseyNumber": 62,
+        "role": "batsman",
+        "battingStyle": "LHB",
+        "bowlingStyle": "OB",
+        "isCaptain": false,
+        "isWicketKeeper": false,
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      {
+        "id": "aus_2",
+        "name": "David Warner",
+        "shortName": "D Warner",
+        "jerseyNumber": 31,
+        "role": "batsman",
+        "battingStyle": "LHB",
+        "bowlingStyle": "LB",
+        "isCaptain": false,
+        "isWicketKeeper": false,
+        "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      {
+        "id": "aus_3",
+        "name": "Mitchell Marsh",
+        "shortName": "M Marsh",
+        "jerseyNumber": 8,
+        "role": "all_rounder",
+        "battingStyle": "RHB",
+        "bowlingStyle": "RM",
+        "isCaptain": true,
+        "isWicketKeeper": false,
+        "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      {
+        "id": "aus_4",
+        "name": "Glenn Maxwell",
+        "shortName": "G Maxwell",
+        "jerseyNumber": 32,
+        "role": "all_rounder",
+        "battingStyle": "RHB",
+        "bowlingStyle": "OB",
+        "isCaptain": false,
+        "isWicketKeeper": false,
+        "image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      {
+        "id": "aus_5",
+        "name": "Marcus Stoinis",
+        "shortName": "M Stoinis",
+        "jerseyNumber": 17,
+        "role": "all_rounder",
+        "battingStyle": "RHB",
+        "bowlingStyle": "RM",
+        "isCaptain": false,
+        "isWicketKeeper": false,
+        "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      {
+        "id": "aus_6",
+        "name": "Tim David",
+        "shortName": "T David",
+        "jerseyNumber": 85,
+        "role": "batsman",
+        "battingStyle": "RHB",
+        "bowlingStyle": "OB",
+        "isCaptain": false,
+        "isWicketKeeper": false,
+        "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      {
+        "id": "aus_7",
+        "name": "Matthew Wade",
+        "shortName": "M Wade",
+        "jerseyNumber": 13,
+        "role": "wicket_keeper",
+        "battingStyle": "LHB",
+        "bowlingStyle": "None",
+        "isCaptain": false,
+        "isWicketKeeper": true,
+        "image": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      {
+        "id": "aus_8",
+        "name": "Pat Cummins",
+        "shortName": "P Cummins",
+        "jerseyNumber": 30,
+        "role": "bowler",
+        "battingStyle": "RHB",
+        "bowlingStyle": "RF",
+        "isCaptain": false,
+        "isWicketKeeper": false,
+        "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      {
+        "id": "aus_9",
+        "name": "Mitchell Starc",
+        "shortName": "M Starc",
+        "jerseyNumber": 56,
+        "role": "bowler",
+        "battingStyle": "LHB",
+        "bowlingStyle": "LF",
+        "isCaptain": false,
+        "isWicketKeeper": false,
+        "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      {
+        "id": "aus_10",
+        "name": "Adam Zampa",
+        "shortName": "A Zampa",
+        "jerseyNumber": 88,
+        "role": "bowler",
+        "battingStyle": "RHB",
+        "bowlingStyle": "LB",
+        "isCaptain": false,
+        "isWicketKeeper": false,
+        "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      {
+        "id": "aus_11",
+        "name": "Josh Hazlewood",
+        "shortName": "J Hazlewood",
+        "jerseyNumber": 38,
+        "role": "bowler",
+        "battingStyle": "RHB",
+        "bowlingStyle": "RFM",
+        "isCaptain": false,
+        "isWicketKeeper": false,
+        "image": "https://images.unsplash.com/photo-1463453091185-61582044d556?auto=format&fit=crop&w=150&h=150&q=80"
+      }
+    ]
+  },
+  "team1Score": {
+    "runs": 0,
+    "wickets": 0,
+    "overs": 0,
+    "balls": 0,
+    "oversDisplay": "0.0",
+    "extras": {
+      "wides": 0,
+      "noBalls": 0,
+      "byes": 0,
+      "legByes": 0,
+      "penalty": 0,
+      "total": 0
+    }
+  },
+  "team2Score": {
+    "runs": 0,
+    "wickets": 0,
+    "overs": 0,
+    "balls": 0,
+    "oversDisplay": "0.0",
+    "extras": {
+      "wides": 0,
+      "noBalls": 0,
+      "byes": 0,
+      "legByes": 0,
+      "penalty": 0,
+      "total": 0
+    }
+  },
+  "firstInningsSummary": null,
+  "liveState": {
+    "battingTeamId": "team1",
+    "bowlingTeamId": "team2",
+    "currentRunRate": 0,
+    "requiredRunRate": 0,
+    "target": null,
+    "runsNeeded": null,
+    "ballsRemaining": 120,
+    "lastWicket": "None",
+    "currentPartnership": {
+      "runs": 0,
+      "balls": 0
+    },
+    "recentBalls": [],
+    "currentBatsmen": [
+      {
+        "id": "ind_1",
+        "name": "Rohit Sharma",
+        "shortName": "R Sharma",
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strikeRate": 0,
+        "isStriker": true,
+        "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&h=150&q=80",
+        "jerseyNumber": 45,
+        "role": "batsman"
+      },
+      {
+        "id": "ind_2",
+        "name": "Yashasvi Jaiswal",
+        "shortName": "Y Jaiswal",
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strikeRate": 0,
+        "isStriker": false,
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&h=150&q=80",
+        "jerseyNumber": 64,
+        "role": "batsman"
+      }
+    ],
+    "currentBowler": {
+      "id": "aus_10",
+      "name": "Adam Zampa",
+      "shortName": "A Zampa",
+      "overs": 0,
+      "balls": 0,
+      "oversDisplay": "0.0",
+      "maidens": 0,
+      "runs": 0,
+      "wickets": 0,
+      "economy": 0,
+      "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=150&h=150&q=80",
+      "jerseyNumber": 88
+    }
+  },
+  "winProbability": {
+    "team1": 50,
+    "team2": 50
+  },
+  "fallOfWickets": {
+    "team1": [],
+    "team2": []
+  },
+  "overHistory": {
+    "team1": [],
+    "team2": []
+  },
+  "commentary": [
+    {
+      "id": "c_1790959833776",
+      "ball": "0.0",
+      "text": "Match started! India won the toss and elected to bat first. Rohit Sharma and Yashasvi Jaiswal open the innings. Adam Zampa with the ball.",
+      "type": "info",
+      "timestamp": "2026-10-02T16:50:33.777Z"
+    }
+  ]
+}

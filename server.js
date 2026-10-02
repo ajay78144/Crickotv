@@ -25,8 +25,8 @@ initSocketIO(io);
 
 // Connect to MongoDB and start server
 const startServer = async () => {
-  // Connect to MongoDB if URI is supplied (graceful fallback for standalone broadcast mode)
-  if (process.env.MONGODB_URI) {
+  // Connect to MongoDB if URI is supplied (Atlas or local)
+  if (process.env.MONGODB_URI || process.env.MONGO_URI) {
     await connectDB();
   }
 

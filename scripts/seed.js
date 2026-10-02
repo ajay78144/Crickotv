@@ -9,8 +9,8 @@ const OverlaySetting = require('../src/models/OverlaySetting');
 
 const seedData = async () => {
   try {
-    const mongoUri = process.env.MONGODB_URI || 'mongodb://127.0.0.1:27017/crickotv';
-    console.log(`Connecting to MongoDB for seeding: ${mongoUri}`);
+    const mongoUri = process.env.MONGODB_URI || process.env.MONGO_URI || 'mongodb://127.0.0.1:27017/crickotv';
+    console.log(`Connecting to MongoDB for seeding: ${mongoUri.replace(/:([^:@]+)@/, ':****@')}`);
     await mongoose.connect(mongoUri);
 
     console.log('🧹 Clearing existing collections...');
